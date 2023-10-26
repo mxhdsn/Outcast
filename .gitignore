@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+HorrorExperiment/Content/ProceduralNaturePack/*
+HorrorExperiment/Content/PN_interactiveSpruceForest/*
