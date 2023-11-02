@@ -67,8 +67,9 @@ Build/*/**
 Saved/*
 
 # Compiled source files for the engine to use
-Intermediate/*
+HorrorExperiment/Intermediate/*
 Plugins/*/Intermediate/*
+ProjectFiles/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
