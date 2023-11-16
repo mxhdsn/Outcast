@@ -76,3 +76,8 @@ DerivedDataCache/*
 
 HorrorExperiment/Content/ProceduralNaturePack/*
 HorrorExperiment/Content/PN_interactiveSpruceForest/*
+HorrorExperiment/Windows/*
+HorrorExperiment/Saved/*
+HorrorExperiment/Binaries/*
+HorrorExperiment/Saved/StagedBuilds*
+HorrorExperiment/Saved/Cooked/Windows/Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset
